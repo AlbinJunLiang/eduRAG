@@ -1,0 +1,3 @@
+En la carpeta de proyecto, accedido desde el cmd o consola: proyecto>  python -m backend.main
+Ejecutar el siguiente comando:
+ python -m backend.main

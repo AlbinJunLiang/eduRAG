@@ -1,0 +1,342 @@
+A continuación, se presenta una versión en prosa del manual de tránsito y seguridad vial, transformando las listas en descripciones continuas para una mejor comprensión:
+
+Manual de Tránsito y Seguridad Vial
+
+Este documento abarca los aspectos generales del tránsito, la legislación vial, los factores del vehículo y el entorno, el factor humano, las normas de circulación, la conducción técnica, económica y eficiente, y la conducción de motocicletas.
+
+Capítulo 1: Aspectos Generales del Tránsito y la Seguridad Vial
+Costa Rica ha demostrado ser pionera en seguridad vial en América Latina, con el primer vehículo circulando en San José en 1912 y el primer código de circulación establecido en 1920. La legislación de tránsito ha evolucionado a lo largo de los años, con la Ley de Tránsito 5930 en 1976, la Ley de Administración Vial 6324 en 1979, la Ley de Tránsito Vías Públicas y Terrestres 7331 en 1993, y finalmente la Ley de Tránsito Vías Públicas y Terrestres y Seguridad Vial 9078 en 2012.
+
+
+El principal objetivo de la seguridad vial es prevenir los accidentes de tránsito. El tránsito se define como el acto de desplazarse de un lugar a otro. La seguridad vial, como disciplina, estudia y aplica acciones para garantizar el buen funcionamiento de la circulación, buscando eliminar las causas que producen accidentes.
+
+
+
+La Ley 9078 regula la circulación de vehículos y personas en vías públicas, incluyendo gasolineras, estacionamientos públicos y privados, playas y vías privadas (residenciales). Sin embargo, no aplica en parqueos privados de casas, edificios públicos o privados, vías ferroviarias ni para semovientes. La "trilogía vial" está compuesta por tres factores principales: el factor humano, el factor vehículo y el factor vía y su entorno. El factor humano incluye conductores, pasajeros, peatones y ciclistas. Se estima que el 90% de los accidentes son causados por el factor humano, aunque una falla en cualquiera de los factores repercute en la circulación. El conductor es considerado el elemento más importante de la circulación, ya que el movimiento de los vehículos en carretera depende de ellos.
+
+
+
+
+Capítulo 2: Legislación del Tránsito
+La Ley de Tránsito 9078 clasifica las infracciones desde las más graves, que son de tipo A, hasta las menos peligrosas, que son de tipo E. Las multas económicas se actualizan anualmente, específicamente el 30 de junio de cada año, utilizando el índice de precios al consumidor calculado por el INEC. Se considera un delito conducir bajo los efectos del alcohol con más de 0.50 mg/L en sangre o 0.25 mg/L en aire para conductores novatos o profesionales, y más de 0.75 mg/L en sangre o 0.38 mg/L en aire para conductores comunes. También se eleva a rango de delito conducir bajo la influencia de drogas, participar en piques o conducir a más de 150 km/h.
+
+
+Una sanción es la pena o castigo que se aplica a una persona por irrespetar la ley de tránsito. El infractor es la persona que incumple una o más normas de la ley , y el sancionador es el funcionario o juez de tránsito que impone la sanción al infractor. Las sanciones conexas pueden incluir la inmovilización del vehículo, la suspensión de licencias y la inhabilitación para conducir.
+
+
+Aunque el artículo 22 de la Constitución Política establece el derecho de todo costarricense a trasladarse y permanecer en cualquier lugar dentro o fuera del país , la Ley de Tránsito 9078 establece que las personas no pueden circular por donde quieran, sino por las vías correspondientes y con un vehículo que cumpla con los requisitos mínimos.
+
+
+El sistema de acumulación de puntos es un mecanismo mediante el cual un conductor acumula puntos cada vez que comete infracciones a los artículos 143 y 144 de la Ley de Tránsito. Si cualquier conductor acumula 5 puntos o más, debe realizar un curso de sensibilización y reeducación vial como requisito para renovar su documento. La licencia se suspende por un año si un conductor novato (con menos de 3 años de experiencia) acumula 6 puntos , o si un conductor común o profesional acumula 12 puntos.
+
+
+
+
+Algunos artículos relevantes de la Ley de Tránsito 9078 incluyen el Artículo 32 sobre requisitos generales para los vehículos , el Artículo 33 sobre requisitos específicos para la circulación de vehículos , y el Artículo 36 sobre requisitos de seguridad en carretera.
+
+El Artículo 83 detalla los requisitos para el permiso temporal de aprendizaje. Estos incluyen ser mayor de 18 años (excepto para la licencia A1), saber leer y escribir (excepto personas con limitación), aprobar el curso básico de educación vial , tener un dictamen médico, cumplir con los requisitos mínimos según el tipo de licencia, contar con una póliza de responsabilidad civil , y no haber infringido el artículo 143 de la ley de tránsito (infracción A) en los doce meses anteriores. Es importante destacar que el aprendiz siempre debe circular acompañado por una persona con al menos cinco años de experiencia en la misma licencia o una superior. Este permiso es válido por 3 meses.
+
+
+
+
+El Artículo 84 especifica los requisitos para la licencia de conducir. Se requiere ser mayor de 18 años (excepto para la licencia A1), saber leer y escribir (excepto personas con limitación), aprobar el curso básico de educación vial , tener un dictamen médico , cumplir con los requisitos mínimos de edad y experiencia según el tipo de licencia , aprobar el examen práctico (excepto para las licencias C1, E-1, E-2) , y no haber cometido infracciones categoría A y B, ni al artículo 261 bis del código penal (piques) en los 12 meses anteriores.
+
+
+
+En cuanto a los tipos de licencia, el Artículo 85 describe la licencia tipo A. La A-1 es para motocicletas de 0 a 125 cc (para mayores de 16 años) , la A-2 es para motocicletas de 125 cc a 250 cc , y la A-3 es para motocicletas sin límite de cc.
+
+
+El Artículo 86 detalla la licencia tipo B. La B-1 es para vehículos de 0 a 4000 kg y UTV. La B-2 es para vehículos de 4000 kg a 8000 kg, requiriendo 20 años de edad y 2 años con licencia B o C. La B-3 es para todo peso excepto vehículos articulados, y se requiere 22 años de edad y 3 años con licencia B o C. La B-4 es para todo peso y vehículos articulados, con un requisito de 22 años de edad, 3 años con licencia B o C y un curso adicional.
+
+El Artículo 87 presenta la licencia tipo C. La C-1 es para taxis, y la C-2 es para buses y busetas, requiriendo una licencia B por 3 años y un curso básico.
+
+Las licencias tipo D se describen en el Artículo 88. La D-1 es para tractores de llanta, la D-2 para tractores de oruga, y la D-3 para equipo especial.
+
+El Artículo 89 cubre la licencia tipo E. La E-1 es para vehículos con 2, 3, 4 o más ejes, excepto transporte público. La E-2 es para vehículos con 2, 3, 4 o más ejes y todas las máquinas de licencias tipo D.
+
+El Artículo 90 establece que todo patrono que contrate personas para trasladar personas o mercancías debe emplear un conductor profesional con más de 3 años de experiencia.
+
+El Artículo 93 describe las reglas generales al usar las vías públicas. Los conductores deben acatar las indicaciones de las autoridades y respetar las instrucciones de cualquier dispositivo de control del tránsito. También deben observar y cumplir las señales verticales y horizontales , conducir sin obstruir la circulación ni poner en peligro la seguridad de otros , practicar el manejo defensivo, la precaución y la consideración hacia otros conductores y peatones , y dar prioridad de paso a los vehículos de emergencia.
+
+
+
+El Artículo 94 se refiere a los cinturones y otros dispositivos de seguridad. Los menores de 12 años con menos de 1.45 cm de altura deben viajar en el asiento trasero con un sistema de retención infantil, lo que incluye el servicio especial de transporte de estudiantes. Las excepciones a esta norma son los taxis, buses o busetas de servicio especial y las motocicletas.
+
+El Artículo 98 detalla los límites de velocidad. En ausencia de señalización, la velocidad mínima en autopista es de 50 km/h y la máxima de 60 km/h. En zona urbana, la velocidad máxima es de 50 km/h. Cerca de instituciones educativas, centros de salud y donde haya concentraciones masivas, la velocidad máxima es de 25 km/h. Los vehículos de emergencia con respectivas señales sonoras y lumínicas están exentos de cumplir estos límites.
+
+
+En el Artículo 104, se establecen las normas para la intersección de vías. Con un semáforo en rojo, se debe detener por completo. Si el semáforo está en rojo y se va a girar a la derecha, mientras el tránsito lo permita y cediendo el paso a todos, se puede avanzar como si se tratara de un alto. Después de las 10 pm y antes de las 5 am, si el tránsito lo permite, se puede continuar avanzando en cualquier dirección con el semáforo en rojo como si se tratara de un alto. La luz amarilla o verde intermitente significa desacelerar si se está lejos del cruce, y apresurarse sin exceder el límite de velocidad si se está cerca. Ante una señal de ALTO, se debe detener completamente en la línea de parada o cerca de la intersección. Si hay un CEDA, se debe disminuir la velocidad o detenerse para dar prioridad de paso. Los vehículos de emergencia que usen sus alarmas pueden continuar en un ALTO o semáforo rojo.
+
+
+
+
+
+El Artículo 103 regula el uso de luces. Se prohíbe circular sin luces desde las 6 pm y antes de las 6 am. La luz alta se usa solo si no hay vehículos que transiten en sentido contrario. La luz baja se usa si la vía es de sentido contrario o si se transita detrás de otro vehículo. Las luces para neblina solo se usan si las condiciones del clima lo ameritan. No se deben usar luces que excedan los límites establecidos. Las motos, bicimotos y UTV deben tener las luces encendidas las 24 horas del día.
+
+
+
+
+
+El Artículo 110 trata sobre el estacionamiento. Todo vehículo estacionado debe tener el freno de emergencia activo o cuñas (para 2 toneladas). En zona urbana, no debe estar a más de 30 cm del borde de la acera. Está prohibido estacionar en la entrada o salida de instituciones, centros de salud, bomberos, Cruz Roja o estacionamientos públicos o privados. Tampoco se permite estacionar en lugares donde se identifiquen actividades deportivas, religiosas o sociales , en calzadas o aceras impidiendo el libre tránsito , en línea amarilla , a menos de 5 metros de un hidrante o zona de paso peatonal , a menos de 10 metros de una intersección urbana o 25 metros en zona no urbana , en curva o arriba de una pendiente , y en vías públicas excepto fuera de la calzada, siempre y cuando se usen las luces de emergencia. Incumplir la Ley 7600 sobre espacios para personas con discapacidad conlleva el retiro del vehículo en grúa o una multa.
+
+
+
+
+
+El Artículo 117 establece las obligaciones de los conductores y pasajeros de motocicletas. Deben portar casco y usar chaleco o cinta retro-reflectiva. Está prohibido transportar personas menores de 5 años  y llevar bultos, paquetes u objetos que limiten la libertad de movimiento.
+
+
+El Artículo 119 describe las obligaciones de los ciclistas. Deben conducir con precaución , usar la bicicleta en óptimas condiciones , circular por el lado derecho portando documento de identidad , adelantar por el lado izquierdo , circular en vías no mayores a 80 km/h , circular en grupo en hilera o fila , no circular en aceras o sujetarse de otro vehículo. Los menores de 6 años deben ir acompañados por un mayor de 15 años. Está prohibido aprender a circular en bicicleta en vía pública. Deben usar prendas retro-reflectivas  y el carril exclusivo o ciclovía si existe.
+
+
+
+
+
+El Artículo 120 detalla las obligaciones de los peatones. Deben portar documento de identificación. En zona urbana, deben cruzar en esquinas, zonas de paso o puentes peatonales, y transitar por la acera. Si no hay acera, deben transitar por el lado izquierdo. Está prohibido transitar por vías del ferrocarril, realizar malabarismo, mendicidad o ventas.
+
+
+
+En cuanto a las infracciones, el Artículo 143 (Categoría A / 6 puntos) incluye : conducir bajo efectos de bebidas alcohólicas , conducir a más de 120 km/h , conducir con licencia suspendida , adelantar en curva, puente, intersecciones o túneles , invadir carril , virar en U o a la izquierda , negarse a la prueba de alcoholemia , y producir ruido o emitir gases por encima del límite permitido.
+
+
+
+
+El Artículo 144 (Categoría B / 4 puntos) abarca : viajar con menores de 12 años sin silla , viajar en moto con menores de 5 años , transportar materiales peligrosos sin cumplir los requisitos , irrespetar un ALTO o la luz roja del semáforo , circular con placas falsas, ajenas o alteradas , y conducir a más de 40 km/h por encima del límite permitido.
+
+
+
+
+El Artículo 145 (Categoría C - No suma puntos) incluye : circular con exceso de carga o sin cinturón, casco, silla, o en el cajón , circular sin luces entre las 6 pm y las 6 am , circular por aceras o adelantar aprovechándose de vehículos de emergencia , hablar por celular mientras conduce , obstruir el derecho ferroviario , y conducir sin licencia o permiso.
+
+
+
+El Artículo 146 (Categoría D - No suma puntos) considera : irrespetar señales de tránsito, prioridades de paso, circulación en rotondas, etc. , incumplir la norma de uso de luces , que un motociclista no use vestimenta retro-reflectiva , infringir reglas sobre maniobra de retroceso, estacionamiento u obstruir una intersección , ingresar a una intersección obstruyendo la circulación , conducir en las playas , transitar en bicicleta en zonas de 80 km/h , circular sin derechos de circulación , y circular con licencia extranjera con más de 3 meses de haber ingresado al país.
+
+
+
+
+
+Finalmente, el Artículo 147 (Categoría E - No suma puntos) menciona : poner en funcionamiento altoparlantes antes de las 7 am y después de las 7 pm o cerca de hospitales, escuelas o iglesias , detenerse sobre una señal horizontal , infringir la restricción vehicular , generar congestionamiento para observar un accidente , y usar abusivamente la bocina o a menos de 100 m de escuelas, hospitales o iglesias en funcionamiento.
+
+
+
+El Artículo 150 detalla las condiciones para el retiro temporal del vehículo. Esto ocurre al haber cometido una infracción de categoría A , circular sin estar inscrito en el registro nacional , conducir sin licencia o con esta suspendida , circular sin placas o con placas que no corresponden , cuando el vehículo obstruya vías, rampas, aceras, paradas, ciclovías, hidrantes, salidas de emergencia o estacionamiento para personas con discapacidad , cuando las condiciones mecánicas impidan circular , cuando se cause lesión de gravedad a terceros o muerte , o cuando se circule en bicicleta en una zona de 80 km/h.
+
+
+
+
+
+Capítulo 3: Factor Vía y su Entorno
+El factor vía y su entorno se refiere a un sistema integrado de carreteras, caminos, sendas, plazas, parques, entre otros lugares de dominio público. El ambiente se refiere a las condiciones climáticas y de la naturaleza, mientras que la vía es la calzada y los elementos viales. El entorno incluye la presencia de edificios e infraestructura.
+
+
+Existen dos tipos principales de vías: la vía urbana, que consta de acera, calzada, caño y borde de acera , y la vía rural, que se compone de espaldón, calzada y cuneta (zanja).
+
+Las funciones de la vía pública son la circulación, que implica trasladarse de un lugar a otro ; la convivencia, donde las personas se relacionan entre sí en la vía pública ; y las funciones ecológicas, que implican la interrelación entre el medio ambiente y el hombre.
+
+
+La infraestructura vial es toda obra realizada por el ser humano para facilitar la circulación. Sus elementos incluyen las vías de circulación, que son lugares de dominio público ; las intersecciones, que son los puntos donde convergen dos o más vías ; y el señalamiento, que se refiere a los elementos físicos para la circulación.
+
+
+Los tipos de señalamiento vial se dividen en señalamiento vertical, señalamiento horizontal y señalamiento luminoso.
+
+El señalamiento vertical se encuentra en postes o lugares elevados  y comprende señales de reglamentación, prevención e información. Las señales de reglamentación indican obligaciones, prohibiciones o normativas ; son rectangulares, con fondo blanco y un círculo rojo, a excepción de las señales de ALTO, CEDA y DISCAPACIDAD. Las señales de prevención advierten sobre un peligro u obstáculo ; son cuadradas con esquinas redondeadas, de color amarillo y con borde o leyenda negra, y si se refieren a obras, son de color naranja con negro. Las señales de información se utilizan para identificación, destino y distancia, información general, recomendaciones, servicios-turismo, áreas silvestres, recreativas y parques nacionales.
+
+
+
+El señalamiento horizontal es la pintura sobre la calzada, el borde de la acera o el espaldón. La pintura blanca se usa en carriles de un solo sentido , mientras que la pintura amarilla se usa en carriles con sentidos opuestos o para indicar prohibición de estacionamiento. La línea de centro, de color amarillo, ordena el tránsito en sentidos diferentes. La línea de barrera, también amarilla, se usa en lugares donde no se permite el adelantamiento. La línea de vía, de color blanco, organiza el tránsito en carriles con un mismo sentido. La línea de borde, blanca, separa la calzada del caño o espaldón. La línea de canalización se usa en intersecciones para guiar el giro a la izquierda. La línea de parada indica al conductor dónde debe detener su vehículo al hacer un ALTO o CEDA. Las islas de canalización ordenan el tránsito en zonas conflictivas y eliminan el sobreancho de la calzada, y no se debe circular ni detenerse sobre ellas. Las marcas en el espaldón son de color blanco y dan mayor visibilidad a la parte exterior de la calzada, y no se debe estacionar sobre ellas. La caja amarilla indica a los conductores la prohibición de bloquear la intersección. Las zonas de paso facilitan el cruce en una vía de menor afluencia peatonal. Las zonas de seguridad permiten el cruce de peatones en vías de mayor afluencia y se regulan con semáforos. Las zonas de estacionamiento delimitan el área de estacionamiento. Los carriles exclusivos de giro a la izquierda se usan como zona de refugio para girar a la izquierda con seguridad. El carril reversible se usa para descongestionar ciertas zonas conflictivas y está regulado por horarios y semáforos. Los carriles exclusivos para servicio público son solo para la circulación de buses y taxis.
+
+
+
+
+
+El señalamiento luminoso incluye el semáforo vehicular, que señaliza a los conductores si pueden pasar o no. Una luz roja intermitente equivale a un ALTO y significa detenerse por completo. Una luz amarilla intermitente equivale a un CEDA y significa reducir la velocidad. El semáforo peatonal regula el paso de los peatones y se ubica en zonas de seguridad. Las señales luminosas informativas transmiten órdenes o prohibiciones que modifican las reglas generales o advierten sobre circunstancias como el clima, derrumbes o desvíos.
+
+
+
+Las condiciones adversas son aquellas que se presentan en contra del conductor al momento de guiar el vehículo. Estas pueden ser físicas, mentales, mecánicas, ambientales y relacionadas con el diseño de la vía.
+
+
+Las condiciones ambientales incluyen el sol, el viento, las nubes de humo o polvo, la lluvia, la neblina, las inundaciones y el hidroplaneamiento. El hidroplaneamiento es la pérdida de contacto de las llantas del vehículo con la calzada a causa del agua, lo que hace que el vehículo tienda a patinar. Para controlar el vehículo en esta situación, se debe virar el volante en la dirección del patinazo.
+
+
+
+Las condiciones de diseño se refieren a las características de la vía. Las curvas pueden ser verticales (pendientes o cuestas) u horizontales (curva circular en un tramo recto). Para evitar derrapar o volcarse al entrar en una curva, se debe disminuir la velocidad, ubicarse bien en el carril y nunca adelantar, ya que no se cuenta con la visibilidad suficiente. La fuerza centrífuga es la fuerza que tiende a sacar al vehículo de una curva. Para evitar esto, se construye una elevación mayor en uno de los extremos de la calzada en sentido opuesto a la dirección de la curva, a lo que se le llama "peralte".
+
+
+
+
+Capítulo 4: Factor Vehículo
+La función principal de un motor de combustión interna es transformar la energía química del combustible en energía mecánica para mover el vehículo. Para que un motor funcione, necesita tres elementos: aire, combustible y calor (chispa). El aire entra por el filtro de aire, y el combustible y el calor (chispa) entran por medio de los inyectores. Los inyectores reemplazaron al carburador y depositan la cantidad exacta de combustible que necesita el motor. Anteriormente, tanto el aire como la gasolina entraban juntos por el carburador, pero ahora entran por separado: el aire por un lado y el combustible por los inyectores.
+
+
+
+
+
+El vehículo cuenta con varios sistemas y componentes esenciales. El sistema de dirección permite que el conductor, con el menor esfuerzo posible, haga circular el vehículo en la dirección deseada. Existen dos tipos de dirección: la hidráulica, que es suave, y la mecánica, que es más dura. El sistema de frenos aminora la marcha del vehículo o lo detiene completamente, según los requerimientos del conductor. Básicamente, se compone de dos sistemas complementarios: el freno de servicio y el freno de emergencia o "freno de mano". El sistema de suspensión y amortiguación brinda comodidad y seguridad a los ocupantes del vehículo al absorber el movimiento originado por las irregularidades del camino. Este sistema permite un mejor control de las fuerzas que actúan sobre el vehículo en su desplazamiento por la calzada  y se compone de dos subsistemas: suspensión y amortiguamiento. El sistema de alimentación suministra al motor la energía que le permite movilizar el vehículo. El sistema de escape evacúa eficientemente los gases quemados del funcionamiento del motor ; un mal funcionamiento de este sistema puede provocar problemas ambientales como la contaminación y la intoxicación. El sistema eléctrico es el generador de la corriente eléctrica necesaria para el funcionamiento del vehículo  y se subdivide en sistemas de carga, arranque, alumbrado y servicios. Para el control de contaminantes y su disminución al mínimo, se han incorporado pequeños dispositivos mecánicos y electrónicos en distintas partes del vehículo, principalmente en el motor y el tubo de escape. Estos dispositivos controlan las diferentes condiciones de marcha del vehículo para lograr una combustión óptima, economizando combustible y disminuyendo los niveles de contaminación ambiental. El sistema de lubricación evita el roce entre las piezas del motor ; el aceite posee propiedades detergentes que brindan limpieza a las partes internas, funciona como antioxidante y mejora la acústica, lo cual ayuda a disminuir el desgaste prematuro de las piezas y su recalentamiento. El aceite es un elemento esencial de este sistema y se sustituye periódicamente según las especificaciones del fabricante o de un experto del vehículo. El sistema de embrague tiene como función principal separar el sistema de transmisión del motor, permitiendo salir suavemente, aumentar o disminuir la velocidad de manera gradual y realizar cambios de velocidad. Esto aplica tanto a vehículos manuales como automáticos. El sistema de enfriamiento mantiene la temperatura ideal en el motor ; en el encendido, permite el calentamiento inicial y luego regula la temperatura, evitando el sobrecalentamiento, ya que durante el funcionamiento del motor, las paredes de los cilindros alcanzan altas temperaturas. El elemento esencial de este sistema es el agua o refrigerante (coolant). El tablero o panel de instrumentos cuenta con una serie de indicadores como el marcador de velocidad, odómetro, tacómetro, control de temperatura y nivel de combustible, entre otros. Este dispositivo señala el funcionamiento, ya sea bueno o malo, de algún sistema del vehículo. En cuanto a las llantas, independientemente del tipo que se use, se debe revisar a diario la presión de inflado. Si una llanta tiene poca presión, se desgastará más por los lados, mientras que si tiene mucha presión, se desgastará más en el centro.
+
+
+
+
+
+Para cambiar una llanta, primero se debe escoger un lugar seguro, plano y alejado de la circulación, fuera de la carretera. Luego, se deben colocar los triángulos de seguridad para alertar al tránsito, accionar las luces de emergencia y colocarse el chaleco de seguridad; una lámpara también es muy útil de noche para hacerse más visible. Finalmente, se debe sacar la herramienta necesaria, que incluye la llanta de repuesto (asegurándose de que tenga la presión recomendada), la llave de ranas y la gata (manual o hidráulica). Para apretar las tuercas de la llanta, se debe hacer en diagonal para que la llanta quede bien alineada y asegurada. La rotación regular de las llantas ayuda a extender su duración y mejora su desempeño. Las llantas deben rotarse cada seis meses o entre 10,000 y 15,000 kilómetros. El testigo de desgaste es el sistema más habitual y consiste en un taco de goma de 1.6 mm de grosor, incrustado en el fondo de los canales longitudinales. Cuando la banda de rodamiento llega a este nivel, la llanta ha alcanzado el límite legal de utilización y debe ser reemplazada. El manómetro es un instrumento que mide e indica la presión de un fluido ; se emplea en vehículos para medir la presión del aire en las llantas, del aceite en el circuito de lubricación, del aire o del líquido en los circuitos hidráulicos del vehículo y de la gasolina.
+
+
+
+
+
+En cuanto a la seguridad del vehículo, la seguridad pasiva se refiere a los elementos diseñados para minimizar las lesiones en caso de accidente. Ejemplos de esto son las bolsas de aire, el cinturón, los apoyacabezas, el casco, los asientos y la carrocería. El extintor se debe usar debajo del asiento del copiloto. La seguridad activa, por su parte, sirve para prevenir los accidentes. Ejemplos incluyen los frenos, las luces, el mantenimiento y la revisión , así como los cinturones y dispositivos de seguridad y de retención infantil.
+
+
+
+
+Capítulo 5: Factor Humano
+Para ser un buen conductor, lo cual implica mucho más que solo saber manejar un vehículo, se requieren dos condiciones fundamentales: saber maniobrar el vehículo y tener una actitud o postura adecuada al conducir. En Costa Rica, entre el 57% y el 65% de los percances se deben al factor humano , lo que significa que dos de cada tres accidentes ocurren por la mediación de una persona. Un conductor responsable debe conocer las normas de circulación, tener nociones elementales de mecánica automotriz y sobre prevención de accidentes.
+
+
+
+
+Para una posición ergonómica al conducir, es crucial sentarse correctamente y ajustar el asiento de manera que las piernas nunca toquen el borde del volante de dirección. Ambas manos deben sujetar el volante en la posición de las nueve y las quince del reloj, permitiendo dar media vuelta al volante sin que los codos entren en contacto con el asiento o las partes del cuerpo. Es fundamental usar el cinturón y verificar que las puertas estén cerradas.
+
+
+
+Las condiciones para el manejo implican el conocimiento necesario de técnicas para la conducción y maniobrabilidad, es decir, la adquisición de la habilidad para conducir. Esto incluye conocimientos sociales y técnicos como la cortesía, el respeto, la tolerancia y la comunicación , así como las normas de circulación y nociones elementales de mecánica automotriz.
+
+El manejo seguro se relaciona con el "círculo de seguridad", que consiste en la revisión diaria del vehículo y mantener una distancia de 1.5 metros. El manejo defensivo se refiere a las decisiones adecuadas que siempre tomará el "buen conductor" para evitar o prevenir un accidente. Es un manejo seguro que se basa en una serie de buenos hábitos preventivos que evitan los accidentes de tránsito, anticipando, imaginando y suponiendo todo lo que pueda ocurrir.
+
+
+
+Los procesos de la conducción incluyen la intelección, que es el proceso mediante el cual el conductor interpreta los estímulos que percibe, de acuerdo con sus conocimientos y experiencias. La volición se refiere a la reacción y toma de decisiones del conductor como resultado de los procesos anteriores. La percepción, por su parte, es el contacto del conductor con el ambiente que lo rodea, principalmente a través de sus sentidos: tacto, vista, oído y olfato.
+
+
+
+Las condiciones de salud pueden ser permanentes, como diabetes, hipertensión, epilepsia o la pérdida de algún miembro. También pueden ser transitorias o eventuales, ya sean físicas o psíquicas, como fatiga, intoxicación, sueño, el efecto de medicamentos, problemas emocionales o el uso de licor.
+
+
+El alcohol y la conducción tienen efectos negativos, ya que crea un falso estado de seguridad, euforia, optimismo y confianza en sí mismo. Además, produce sueño y fatiga , da una falsa precisión de distancia y velocidades, y disminuye los reflejos, aumentando el tiempo de reacción. Conducir bajo los efectos del alcohol con más de 0.50 mg/L en sangre o 0.25 mg/L en aire para conductores novatos o profesionales, y más de 0.75 mg/L en sangre o 0.38 mg/L en aire para conductores comunes, eleva la acción a rango de delito.
+
+
+
+En cuanto a las condiciones emocionales o mentales, se identifican varios comportamientos : la homeostasis se refiere a la persona que cree que sabe manejar muy bien ; el exhibicionismo a quienes les encanta llamar la atención ; la temeridad a los atrevidos e irresponsables ; la negligencia a los descuidados y perezosos que no revisan su vehículo ; la cólera-ira a los agresivos y peligrosos ; la distracción a quienes no se concentran al manejar ; la ligereza a quienes conducen igual a toda hora y lugar ; la vanidad a quienes reprochan los errores de los demás ; la susceptibilidad a quienes se molestan por todo y se enojan fácilmente ; y la agresividad a quienes usan la bocina excesivamente e irrespetan a los demás.
+
+
+
+
+
+La buena conducción nocturna depende de tres elementos fundamentales: velocidad, visibilidad e iluminación. Se recomienda reducir la velocidad a la mitad de la usada normalmente. Si se usa luz larga, debe cambiarse a luz baja 150 metros antes de un vehículo. Las luces del vehículo deben ser visibles a 250 metros de distancia, estando limpias y en buen estado. Si se encandila, se debe mirar la línea de borde a la derecha. Para un estacionamiento de emergencia, se debe buscar un tramo recto, usar las luces de emergencia, sacar el vehículo de la vía y poner los triángulos de seguridad.
+
+
+Capítulo 6: Normas de Circulación
+En cuanto a las normas de circulación para el peatón, el peatón es el usuario natural y primero de la vía pública. En zonas urbanas, debe circular por las aceras y cruzar en las esquinas o lugares demarcados. En zona rural, debe circular en sentido opuesto al tránsito, al lado izquierdo si no hay aceras. En ambas zonas, debe mirar a ambos lados antes de cruzar y hacerlo cuando haya seguridad.
+
+Respecto a las normas de circulación para los conductores, lo primero que se debe hacer al iniciar la circulación es asegurarse de que el vehículo esté en buen estado y que el conductor tenga las condiciones adecuadas para manejar. Una intersección se conoce como la confluencia de varias vías, por lo que el tránsito converge en un punto desde diferentes direcciones. Las intersecciones se regulan por medio de semáforos, señales o normativas de tránsito.
+
+
+Las prioridades de paso se refieren a tener claro qué conductor tiene la prioridad para realizar una maniobra o pasar primero. Para regular este derecho de paso, se acude a diferentes normas o elementos, que incluyen: vehículos sobre rieles, autoridades, vehículos de emergencia, semáforos, señales CEDA o ALTO, vías principales, avenidas (este-oeste) y calles (norte-sur), la ley de la mano derecha, y la cortesía y comunicación.
+
+Los tipos de movimiento o giros son: giro a la derecha, movimiento directo y giro a la izquierda. El adelantamiento está prohibido en intersecciones, pasos peatonales, túneles, pasos a nivel y pasos inferiores.
+
+Los accidentes son errores cometidos por los usuarios, deficiencias en la carretera o falta de coordinación. La ciencia que estudia las causas y efectos de los accidentes de tránsito se llama Accidentología Vial. Una colisión es el choque entre dos o más vehículos, un vehículo y un animal, o entre un vehículo y un objeto fijo. Los tipos de colisión incluyen la colisión frontal, que se da por invadir el carril y es la más grave ; la colisión trasera, que se da por no guardar la distancia, distracción o exceso de velocidad ; y la colisión lateral, que se da por adelantamientos. La regla de seguimiento para vehículos livianos es de 2 segundos y para vehículos pesados es de 6 segundos. El ángulo muerto o punto ciego es el espacio de tiempo en que ninguna moto o vehículo es visible en los espejos del auto. Para evitarlo, se deben ajustar correctamente los espejos laterales y girar levemente por encima del hombro antes de realizar una maniobra.
+
+
+
+
+
+La distancia de parada es la distancia que recorre el vehículo entre el momento en que se divisa un obstáculo y el momento en que el auto se detiene por completo. Esta se divide en dos: la distancia de reacción, que es la distancia que el vehículo recorre entre el momento en que el conductor percibe el obstáculo y aquel en que aplica los frenos (aproximadamente 1 segundo) , y la distancia de frenado, que es el recorrido que el sistema de frenos necesita para detener totalmente el vehículo.
+
+
+
+Capítulo 7: Rotondas
+Al conducir en rotondas, se debe mantener una velocidad máxima de 30 km/h. Los vehículos que ya se encuentran dentro de la rotonda tienen prioridad de paso, por lo que se debe ceder el paso para ingresar. Es importante indicar con las luces direccionales la maniobra que se va a realizar. El ingreso a la rotonda debe hacerse respetando el "Ceda el Paso", de manera prudente y cuando se tenga suficiente espacio y tiempo. Se debe ubicar en el carril de acceso correcto y mantenerse en él hasta realizar la maniobra de salida. No está permitido adelantar en la rotonda. Salir de una rotonda es más peligroso que ingresar, por lo que no se debe intentar abandonarla si no se está ubicado en el carril correspondiente, ni ingresar a un carril de forma repentina. Es fundamental no olvidar avisar con las señales direccionales la maniobra que se va a realizar. El documento también presenta información sobre rotondas de dos y tres carriles, así como errores comunes que se cometen en ellas.
+
+
+
+
+
+Capítulo 8: El Conductor y la Contaminación Ambiental
+La Ley de Tránsito define como contaminantes ambientales a aquellos gases, partículas o ruidos producidos por un vehículo automotor que excedan los niveles admisibles establecidos. Es importante saber que un litro de gasolina consumido produce medio kilo de dióxido de carbono, y el 40% de la contaminación de ríos y lagos proviene del aceite usado de motor.
+
+
+Los efectos de la contaminación en la salud del conductor pueden incluir adormecimientos, desmayos, disminución de reflejos o descoordinación de ideas. Si se respira en una atmósfera contaminada, se pueden experimentar problemas respiratorios y circulatorios que afectan el cerebro y provocan alteración de la conducta.
+
+
+Los tipos de contaminación atmosférica son sónica, lumínica, calórica y electromagnética. Los principales contaminantes del aire se clasifican en primarios y secundarios. Los contaminantes primarios permanecen en la atmósfera tal como son lanzados, como el dióxido de azufre, monóxido de carbono, dióxido de carbono y óxido de nitrógeno. Los contaminantes secundarios no son emitidos directamente, sino que se forman cuando contaminantes primarios reaccionan en la atmósfera, un ejemplo es la lluvia ácida y los hidrocarburos que producen smog.
+
+
+
+El ciclo vital de un automóvil, desde su producción hasta su desecho, es contaminante por sí mismo. Sin embargo, no se debe desvirtuar su extraordinaria importancia para el desarrollo social. Por ello, se debe optimizar su uso y reducir su impacto en el ambiente. En el mercado de vehículos, existe una novedosa oferta de modelos amigables con el ambiente, los cuales usan combustibles alternativos como electricidad, energía solar, hidrógeno, gas y aceite vegetal. La Ley de Tránsito, en su artículo 95, establece que a estos vehículos amigables con el ambiente no se les limitará el acceso al área metropolitana, excluyéndolos de la restricción vehicular.
+
+
+
+
+La conciencia ecológica es fundamental, y controlar la emisión de gases de los vehículos es crucial. El transporte automotor constituye el mayor consumidor de carburante en nuestro país. El petróleo es un recurso no renovable. Un motor en mal estado no quema bien la gasolina y el diésel, produciendo una nube negra de hollín que ensucia la ropa, intoxica los pulmones y enrojece los ojos. La conciencia ecológica también se relaciona con el ruido, los rótulos, los hules y llantas tiradas, los derrames de aceite negro, el humo del cigarrillo, y los envases y bolsas de plástico, ya que todos estos elementos deterioran el ambiente.
+
+
+
+
+En cuanto al control de gases contaminantes, los motores tienen dispositivos para reducir la contaminación, como el catalizador. Este se ubica a la salida del motor en la tubería de escape. Su función es convertir los gases contaminantes del motor (CO, HC, NOJ) en otros menos contaminantes (CO2 y H2O), mediante una reacción química de moléculas. Un buen conductor no debe permitir que le desconecten o eliminen sensores, pues esto perjudicaría la eficiencia de su vehículo. El efecto lambda se refiere a que a partir de 1993, los vehículos carburados fueron sustituidos por sistemas electro-inyectados que suministran la mezcla exacta de combustible y aire. El factor lambda establece una mezcla ideal de aire y combustible en una relación de 14.7 gramos de aire por cada gramo de combustible.
+
+
+
+
+
+Capítulo 9: Conducción Técnica, Económica y Eficiente
+La conducción técnica, económica y eficiente comprende el conjunto de técnicas aplicables en la conducción diaria del vehículo para ahorrar combustible y disminuir la contaminación. La eco-conducción implica un cambio en el comportamiento social que busca, a través de técnicas de manejo, disminuir las emisiones contaminantes, el consumo de combustible, la reducción del nivel de ruido y la disminución del estrés en el conductor. Esta conducción eficiente comienza con el mantenimiento del vehículo, lo que incluye el cambio a tiempo de aceite , el afinado de motor , el control de presión en los neumáticos , la revisión del desgaste de las llantas , y la planificación de las rutas de viaje.
+
+
+
+
+
+El cuidado del vehículo implica la revisión periódica de las llantas, la refrigeración, el líquido de frenos y el nivel de aceite del motor. También incluye el cambio de filtros , la revisión de luces y carrocería , el alineamiento de dirección , y la revisión de rótulas y escobillas.
+
+
+El motor debe vencer diversas fuerzas opuestas al desplazamiento del vehículo. La resistencia aerodinámica es la fuerza del aire que afecta al vehículo y puede ser de sustentación y arrastre. La resistencia al rodamiento se produce por la fricción del contacto de las llantas con la calzada. La resistencia por pendiente se refiere a que, si el vehículo va cuesta arriba, la inclinación hará que se detenga y el motor deberá vencerla; si va cuesta abajo, el vehículo se acelerará y esto puede ser peligroso. La resistencia por inercia se presenta cuando se pretende cambiar la velocidad de un vehículo, y se debe vencer la fuerza que se opone a ese cambio, la cual depende de la masa del vehículo. Finalmente, la fuerza centrífuga es la fuerza a la que está sometido cualquier cuerpo con movimiento curvilíneo, que tiende a sacarlo de su trayectoria.
+
+
+
+
+
+Las curvas características del motor permiten conocer su comportamiento bajo diferentes condiciones de operación. El par y la potencia informan cuánta fuerza puede generar el motor y con qué rapidez puede funcionar. El par máximo es la máxima fuerza de giro que puede desarrollar el motor a una determinada velocidad. El par torsional es el movimiento alternativo de los pistones que se transforma en un movimiento de rotación que llega a la caja de velocidades y a las llantas.
+
+
+
+
+El diagrama de velocidades permite conocer la velocidad del vehículo en función de la relación de la caja y de las revoluciones del motor. Este diagrama es una herramienta valiosa para la conducción económica, ya que permite conocer el área de funcionamiento óptimo del motor (zona verde) y el rango en el cual se recomienda hacer los cambios de marchas. El tacómetro sirve para medir y controlar el rango económico de Revoluciones Por Minuto (RPM). Indica las RPM a las que el motor está girando, tanto al acelerar como en ralentí. La conducción técnica y económica consiste en mantener una oscilación entre 1,500 y 2,200 RPM para un vehículo de gasolina.
+
+
+
+
+Capítulo 10: La Conducción en Motocicleta
+Antes de conducir una motocicleta, el conductor prudente se asegura de usar ropa adecuada y accesorios. El casco es el elemento de protección más importante, existiendo modelos abiertos y cerrados , y puede salvar la vida al reducir el impacto y las lesiones en el cráneo. El chaleco reduce el riesgo de no ser visto por los demás. Los guantes permiten una sujeción correcta de los comandos, ya que la humedad puede hacer que las manos resbalen. Las botas deben contar con protección de acero para proteger la tibia y los dedos, y se desaconseja el uso de cordones, ya que pueden enredarse en los circuitos de la moto. Las rodilleras y coderas actúan como amortiguadores que, ante una caída, evitan fracturas o heridas graves. En condiciones lluviosas, es necesario usar una capa reflectante, impermeable y de colores llamativos. Las gafas proporcionan buena visibilidad. Además, todo conductor debe usar ropa retro-reflectiva tanto al estar en movimiento como al detenerse.
+
+
+
+
+
+También es fundamental familiarizarse con la motocicleta antes de conducirla. Esto implica conocer los controles y revisar la moto antes de usarla, verificando la presión de aire de las llantas, el nivel de aceite, las luces, los espejos retrovisores, los frenos, la bocina y los transmisores.
+
+
+La motocicleta adecuada debe permitir que ambos pies lleguen al suelo cuando se está sentado. La elección dependerá de la preferencia y necesidad del conductor, incluyendo tipos como UTV, pistera, montañera, scooter, pandillera, de trabajo, triciclos, cuadriciclos, eléctricas, entre otras.
+
+El control básico del vehículo abarca la posición del cuerpo: los brazos deben quedar ligeramente flexionados al sujetar las empuñaduras de la motocicleta. En cuanto a los pies, se deben mantener sobre los estribos, cerca de los controles para poder usarlos rápidamente en caso de necesitarlos, y la punta de los pies debe dirigirse hacia abajo. El frenado es la parte más importante para garantizar la seguridad al conducir. Las motocicletas tienen dos frenos: uno para la rueda delantera y otro para la trasera. El freno de la llanta trasera es el principal, ya que es el que realmente detiene la motocicleta. El freno delantero es un complemento y sirve para estabilizar la moto; lo ideal es usar ambos al mismo tiempo, frenando con suavidad y progresivamente. Al frenar sobre suelo mojado o superficies deslizantes, se debe tener en cuenta que el agua es el enemigo de los motociclistas, por lo que hay que saber frenar de la manera más suave y segura posible. La técnica es la misma, solo que se frena un poco más con el freno trasero.
+
+
+
+
+
+En el motociclismo en grupo, se debe circular de forma segura sin interferir con la circulación del tránsito. Los grupos deben ser pequeños para no afectar el tránsito; si el grupo se compone de más de 4 o 5 motociclistas, deben dividirse en dos. Es crucial mantener el grupo unido. Se debe ubicar a los principiantes adelante, inmediatamente detrás del líder. El grupo debe ir al ritmo de los de atrás, ya que los últimos establecen el ritmo, y si alguno se atrasa, los demás deben reducir la velocidad. Todos deben conocer la ruta. Se debe mantener una distancia prudente que permita espacio a los otros y la capacidad de reaccionar ante peligros. No se deben formar parejas, es decir, no conducir al lado de otro motociclista, porque no se tendrá espacio para maniobrar en caso de necesitarlo. La formación escalonada permite mantenerse unidos y seguros.
+
+
+
+
+
+El uso de los espejos es importante, ya que al conducir no solo es necesario saber qué sucede adelante, sino también conocer los cambios que han ocurrido atrás para maniobrar con seguridad.
+
+En cuanto a las condiciones adversas ambientales, en un día soleado y despejado, aunque se siente confort al conducir, los rayos solares aumentan el padecimiento de diferentes tipos de cáncer de piel, por lo que los conductores deben protegerse con accesorios como mangas para los brazos y protector solar. Cuando el tiempo es lluvioso, el escenario se complica, ya que el frío ataca al conductor de forma directa. Por lo tanto, la disminución de la velocidad es aún más necesaria, y se debe utilizar capa, botas y guantes para contrarrestar los efectos del clima; sin embargo, estos implementos afectan la maniobrabilidad y la destreza al conducir, por lo que se debe realizar con mayor precaución.
+
+
+Los sistemas de la motocicleta incluyen el sistema de transmisión, el cual tiene tres formas de conectar la fuerza del motor con la rueda : la transmisión por cadena, donde los eslabones de la cadena encajan en los dientes de un piñón del motor y en una corona solidaria con la rueda trasera ; la transmisión por cardán, donde una barra transmite la fuerza de movimiento del motor a la rueda mediante engranajes en ambos extremos ; y la transmisión por faja, que a diferencia de la cadena, utiliza una faja dentada que encaja tanto en el eje que sale del motor como en la rueda trasera de la motocicleta mediante las poleas dentadas, siendo este sistema más común en las scooters.
+
+
+
+El sistema de alimentación suministra al motor la energía que le permite movilizar el vehículo. Se compone de un tanque de combustible, tubos, filtro, carburador y un filtro de aire. Los motores de modelos más modernos pueden tener inyección directa en lugar de carburador. El sistema de escape evacúa los gases quemados que resultan del proceso de combustión. Sus elementos básicos son el múltiple de escape, el tubo de escape, el catalizador y el silenciador. La misión del silenciador es reducir el nivel de ruido, y no debe cambiarse ni modificarse para aumentar el nivel de ruido. El mal funcionamiento de este sistema puede provocar contaminación e intoxicación. El sistema de refrigeración puede ser de aire o mediante líquido (agua o refrigerante). Finalmente, el sistema de frenos cuenta con un sistema trasero y otro delantero en las motocicletas.
