@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async function consultarIA(prompt) {
         try {
-            const res = await axios.post(`http://31.97.43.76:8000/api/${consultarAutor.origen}/consulta`, {
+            const res = await axios.post(`https://bustling-tiny-angle.glitch.me/api/proxy?servicio=${consultarAutor.origen}`, {
                 pregunta: prompt,
                 modelo: consultarAutor.modelo
 
