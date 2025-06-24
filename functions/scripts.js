@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const consultarAutor = {
         userPerfil: false, modelo: 'gemini-2.5-flash-lite-preview-06-17',
-        userPerfil: origen = "google"
+         origen = "google"
 
     };
 
